@@ -1,9 +1,8 @@
 body {
-    color: #414141;
-    background-color: #FCF8EC
-    
-    h1
-        font-family "Centaur",
-          
-      
-  }
+    color: white;
+    background-color: #21130d;
+}
+
+h1{
+    font-family: Centaur, sans-serif;
+}
