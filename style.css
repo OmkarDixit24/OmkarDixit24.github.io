@@ -1,13 +1,15 @@
 body {
     color: black;
-    background-color: #f7efc9;   
-}
+    background-color: #F6FFF8;
 
+}
+/* https://coolors.co/palette/6b9080-a4c3b2-cce3de-eaf4f4-f6fff8 (final fix palette for site*/
 h1{
-    font-size: 3em;
+    font-size: 2em;
     font-family: Centaur, sans-serif;
     padding-left: 180px;
     padding-top: 5px;
     padding-right: auto;
     padding-bottom: 25px;
 }
+<hr>
