@@ -3,6 +3,10 @@ body {
     background-color: #F6FFF8, whitesmoke;
 
 }
+
+nav{
+padding-right: 10px;
+}
 /* https://coolors.co/palette/6b9080-a4c3b2-cce3de-eaf4f4-f6fff8 (final fix palette for site*/
 h1{
     font-size: 2em;
